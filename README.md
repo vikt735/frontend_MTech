@@ -1,5 +1,5 @@
 # component
-url frontend-m-tech-7328-le8pm5x6r-vikis-projects.vercel.app
+url https://frontend-m-tech-7328-le8pm5x6r-vikis-projects.vercel.app/#/
 ## Project setup
 ```
 npm install
